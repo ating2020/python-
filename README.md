@@ -1,6 +1,8 @@
 # 14张速查表，带你玩转 Python 数据科学
 译自 DataCamp 的速查表，有兴趣的朋友可以在这里查看[英文原版](https://www.datacamp.com/community/data-science-cheatsheets)。
 
+
+
 欢迎关注二姐小红书：小红书号：110273560  ， 小红书名称：腾讯面试官二姐
 持续更新数据分析，挖掘系列，腾讯内推系列文章
 
@@ -58,3 +60,4 @@
 ![RDD.png](https://upload-images.jianshu.io/upload_images/3240514-43308e4ca89d8699.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 
+本文引自：https://github.com/jaystone776/python-data-science-cheatsheet   谢谢，如有侵权，请随时联系删帖
